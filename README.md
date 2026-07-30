@@ -60,6 +60,6 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-taranushchenko/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-taranushchenko/)
 <br>
-[tetiana.taranushchenko@gmail.com](mailto:tetiana.taranushchenko@gmail.com)
+[tetiana.taranushchenko@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tetiana.taranushchenko@gmail.com)
