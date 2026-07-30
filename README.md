@@ -32,7 +32,7 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 
 ### UI & Design Systems
 
-![Design Systems](https://img.shields.io/badge/Design_Systems--6B7280?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design_Systems-6B7280?style=for-the-badge)
 ![Component Libraries](https://img.shields.io/badge/Component_Libraries-4B5563?style=for-the-badge)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -51,7 +51,6 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Enterprise](https://img.shields.io/badge/GitHub_Enterprise-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
