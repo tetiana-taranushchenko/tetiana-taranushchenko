@@ -20,9 +20,8 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Microfrontend Architecture](https://img.shields.io/badge/Microfrontend-Architecture-6B7280?style=for-the-badge)
-![Performance Optimization](https://img.shields.io/badge/Performance-Optimization-0F766E?style=for-the-badge)
+![Microfrontend Architecture](https://img.shields.io/badge/Microfrontend_Architecture-6B7280?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-0F766E?style=for-the-badge)
 
 ### Testing
 
@@ -52,12 +51,12 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Enterprise](https://img.shields.io/badge/GitHub-Enterprise-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Enterprise](https://img.shields.io/badge/GitHub_Enterprise-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome-DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
