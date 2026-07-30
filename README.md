@@ -6,6 +6,16 @@ Experienced in developing enterprise SaaS products, analytics dashboards, AI-pow
 
 Currently expanding my backend expertise with Node.js and deepening my knowledge of AI technologies, including advanced AI-assisted development and modern LLM-based solutions.
 
+[![View CV](https://img.shields.io/badge/View_CV-496D78?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tetiana-taranushchenko.github.io/CV/CV__Tetiana_Taranushchenko.pdf)
+
+[![Download CV](https://img.shields.io/badge/Download_CV-496D78?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/tetiana-taranushchenko/CV/main/CV__Tetiana_Taranushchenko.pdf)
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-taranushchenko/)
+<br>
+[tetiana.taranushchenko@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tetiana.taranushchenko@gmail.com)
+
 ## Skills
 
 ### Frontend
@@ -63,8 +73,4 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 ![Vite](https://img.shields.io/badge/Vite-67639A?style=for-the-badge&logo=vite&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4775A0?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-taranushchenko/)
-<br>
-[tetiana.taranushchenko@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tetiana.taranushchenko@gmail.com)
