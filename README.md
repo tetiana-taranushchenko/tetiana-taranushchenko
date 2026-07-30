@@ -32,8 +32,8 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 
 ### UI & Design Systems
 
-![Design Systems](https://img.shields.io/badge/Design_Systems-Usage_%26_Contribution-6B7280?style=for-the-badge)
-![Component Libraries](https://img.shields.io/badge/Component-Libraries-4B5563?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design_Systems--6B7280?style=for-the-badge)
+![Component Libraries](https://img.shields.io/badge/Component_Libraries-4B5563?style=for-the-badge)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
