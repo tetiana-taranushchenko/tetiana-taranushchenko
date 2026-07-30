@@ -10,62 +10,62 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Microfrontend Architecture](https://img.shields.io/badge/Microfrontend_Architecture-6B7280?style=for-the-badge)
-![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-0F766E?style=for-the-badge)
+![React](https://img.shields.io/badge/React-2F6F8F?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-446CB3?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A98400?style=for-the-badge&logo=javascript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-53606D?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-B85C3E?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-557A95?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-4F6475?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-AE5968?style=for-the-badge&logo=reactquery&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-3F7D69?style=for-the-badge&logo=redux&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-356C7D?style=for-the-badge)
+![Microfrontend Architecture](https://img.shields.io/badge/Microfrontend_Architecture-846757?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-596A89?style=for-the-badge)
 
 ### Backend Fundamentals
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API Development](https://img.shields.io/badge/REST_API_Development-005571?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-527A50?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-59636F?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2F7968?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<br>
+
+![REST API Development](https://img.shields.io/badge/REST_API_Development-416B7A?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-BF674B?style=for-the-badge&logo=postman&logoColor=white)
 
 ### AI-assisted Development
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
+![Claude Code](https://img.shields.io/badge/Claude_Code-AE6A53?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-536D79?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6A5D72?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### Testing
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-99505B?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-BE6370?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-BE662E?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-41785C?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### UI & Design Systems
 
-![Design Systems](https://img.shields.io/badge/Design_Systems-6B7280?style=for-the-badge)
-![Component Libraries](https://img.shields.io/badge/Component_Libraries-4B5563?style=for-the-badge)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![Design Systems](https://img.shields.io/badge/Design_Systems-496D78?style=for-the-badge)
+![Component Libraries](https://img.shields.io/badge/Component_Libraries-866750?style=for-the-badge)
+![Material UI](https://img.shields.io/badge/Material_UI-3F73A1?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3B7F8F?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-9B607D?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-BE5B78?style=for-the-badge&logo=storybook&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-AE573D?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Git](https://img.shields.io/badge/Git-AE583F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4C5968?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-416F9E?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4D796A?style=for-the-badge&logo=githubactions&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-557F96?style=for-the-badge&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-67639A?style=for-the-badge&logo=vite&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4775A0?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ## Connect with me
 
