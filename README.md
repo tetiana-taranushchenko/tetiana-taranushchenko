@@ -15,20 +15,20 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 ![JavaScript](https://img.shields.io/badge/JavaScript-A98400?style=for-the-badge&logo=javascript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-53606D?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-B85C3E?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-557A95?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-557A95?style=for-the-badge&logo=css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-4F6475?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-AE5968?style=for-the-badge&logo=reactquery&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-3F7D69?style=for-the-badge&logo=redux&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-356C7D?style=for-the-badge)
-![Microfrontend Architecture](https://img.shields.io/badge/Microfrontend_Architecture-846757?style=for-the-badge)
-![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-596A89?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-356C7D?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Microfrontend Architecture](https://img.shields.io/badge/Microfrontend_Architecture-846757?style=for-the-badge&logo=webpack&logoColor=white)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-596A89?style=for-the-badge&logo=lighthouse&logoColor=white)
 
 ### Backend Fundamentals
 
 ![Node.js](https://img.shields.io/badge/Node.js-527A50?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-59636F?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2F7968?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API Development](https://img.shields.io/badge/REST_API_Development-416B7A?style=for-the-badge)
+![REST API Development](https://img.shields.io/badge/REST_API_Development-416B7A?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-BF674B?style=for-the-badge&logo=postman&logoColor=white)
 
 ### AI-assisted Development
@@ -46,7 +46,7 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 
 ### UI & Design Systems
 
-![Design Systems](https://img.shields.io/badge/Design_Systems-496D78?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design_Systems-496D78?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-3F73A1?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3B7F8F?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-9B607D?style=for-the-badge&logo=styledcomponents&logoColor=white)
