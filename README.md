@@ -28,9 +28,6 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 ![Node.js](https://img.shields.io/badge/Node.js-527A50?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-59636F?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2F7968?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br>
-
 ![REST API Development](https://img.shields.io/badge/REST_API_Development-416B7A?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-BF674B?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -50,7 +47,6 @@ Currently expanding my backend expertise with Node.js and deepening my knowledge
 ### UI & Design Systems
 
 ![Design Systems](https://img.shields.io/badge/Design_Systems-496D78?style=for-the-badge)
-![Component Libraries](https://img.shields.io/badge/Component_Libraries-866750?style=for-the-badge)
 ![Material UI](https://img.shields.io/badge/Material_UI-3F73A1?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3B7F8F?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-9B607D?style=for-the-badge&logo=styledcomponents&logoColor=white)
